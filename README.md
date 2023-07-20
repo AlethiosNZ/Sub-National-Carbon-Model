@@ -7,7 +7,7 @@ The model:
   Forecasts future carbon emissions based on user-input scenarios
 
 The model does not:
-  Predict what the impact of a particular policy will be on an emissions activity (e.g. congestion pricing on travel demand) - you will have to make these determinations yourself
+  Predict what the impact of a particular policy will be on an emissions activity (e.g. congestion pricing on travel demand) - you will have to make these determinations yourself.
   Claim any particular validity of the default scenario options.
 
 A brief tutorial is available within the spreadsheet. A user-group has been established which runs regular catchups and conducts tutorials for new users as required. 
