@@ -15,5 +15,5 @@ The model does not:
   -Claim any particular validity of the default scenario options.
 
 A brief tutorial is available within the spreadsheet. A user-group has been established which runs regular catchups and conducts tutorials for new users as required. 
-Please contact Jane.Palmer@boprc.govt.nz or Adam.Jarvis@pncc.govt.nz for an invite to this group.
+Please contact Jane Palmer at BOPRC or Adam Jarvis at PNCC for an invite to this group.
 
